@@ -21,3 +21,10 @@ Data: https://www.kaggle.com/kerneler/starter-cristiano7-43250438-1. Following a
 >>This behaviour is recorded via a line plot.
 >>In the plot we can see a general trend that as the remaining number of minutes decreases, the distance of shot increases.
 >>Do check the code for better insight.
+
+# Area of Shot and Goal
+>>This is the last set of the sequence of data interpratations of this project.
+>> In this, I tried to check whether there is a pattern of goal scoring. Is there a possibility that maximum number of goals in a season are coming only from a specific areaof the field.
+>>To visualize this, I plotted a pie chart for each season.\
+>>In each pie chart, the segments are represented as area of the field from which the shot is taken and is converted to a goal.
+>>If one looks at the pie charts, it will easily notice that, for every season a majority share of goals comes from a specific area.
