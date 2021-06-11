@@ -3,8 +3,10 @@ Data Analysis on stats of Cristiano Ronaldo available on Kaggle.
 In each file, different insights about the game behaviour of Cristiano Ronaldo is extracted out.
 Language Used: Python
 Data: https://www.kaggle.com/kerneler/starter-cristiano7-43250438-1. Following are the main points covered by each file having the code.
+
 # Prediction
-Code for prediction (whether there will be a goal or not) is present in this repo(prediction.ipynb). The code is under constant development. I regularly update and try new methods for prediction to get a better accuracy score. You will find implementations of different machine learning algorithms for the same. Have also covered deep learning algorithms in it.    
+>>Code for prediction (whether there will be a goal or not) is present in this repo(prediction.ipynb). The code is under constant development. 
+>>I regularly update and try new methods for prediction to get a better accuracy score. You will find implementations of different machine learning algorithms for the same. Have also covered deep learning algorithms in it.    
 
 # Find Best Season:
 >>In this file, I tried to figure out what is the best season out of all the season given in the data.
