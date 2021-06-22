@@ -4,7 +4,10 @@ Understand and gain insights of Cristinao Ronaldo's game behaviour using data sc
 
 ### Data Visualizations
 
+Below are the major data visualizations done for different features of the dataset.
+
 ### 1. Area to score goals from
+
 
 ![1](images/1.png)
 
@@ -16,7 +19,7 @@ Understand and gain insights of Cristinao Ronaldo's game behaviour using data sc
 
 ![3](images/3.png)
 
-### 4. Prediction model
+### Prediction model
 
-Predicting if the goal will be scored or not using a binary classification Artifical Neural Network.
+Predicting if the goal will be scored or not using a binary classification Artifical Neural Network. Used Numpy, Pandas, Scikit-learn and Keras for the same. Jupyer notebook "predictions.ipynb" contains the code for tranforming the data and building the model.
 
