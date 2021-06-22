@@ -9,15 +9,15 @@ Below are the major data visualizations done for different features of the datas
 ### 1. Area to score goals from
 
 
-![1](images/1.png)
+![2](images/2.png)
 
 ### 2. Distance of shots against the amount of time left
 
-![2](images/2.png)
+![3](images/3.png)
 
 ### 3. Which Season saw Ronaldo scoring most goals
 
-![3](images/3.png)
+![1](images/1.png)
 
 ### Prediction model
 
