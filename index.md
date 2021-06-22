@@ -6,9 +6,15 @@ Understand and gain insights of Cristinao Ronaldo's game behaviour using data sc
 
 ##### Area to score goals from
 
+![1](images/1.png)
+
 ##### Distance of shots against the amount of time left
 
+![2](images/2.png)
+
 ##### Which Season saw Ronaldo scoring most goals
+
+![3](images/3.png)
 
 #### Prediction model
 
