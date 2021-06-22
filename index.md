@@ -6,18 +6,19 @@ Understand and gain insights of Cristinao Ronaldo's game behaviour using data sc
 
 Below are the major data visualizations done for different features of the dataset.
 
-### 1. Area to score goals from
+### 1. Which Season saw Ronaldo scoring most goals
+
+![1](images/1.png)
+
+### 2. Area to score goals from
 
 
 ![2](images/2.png)
 
-### 2. Distance of shots against the amount of time left
+### 3. Distance of shots against the amount of time left
 
 ![3](images/3.png)
 
-### 3. Which Season saw Ronaldo scoring most goals
-
-![1](images/1.png)
 
 ### Prediction model
 
