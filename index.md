@@ -1,6 +1,6 @@
 ## Kick Off
 
-Understand and gain insights of Cristinao Ronaldo's game behaviour using data science. The dataset used in this project is available at [Kaggle]( https://www.kaggle.com/kerneler/starter-cristiano7-43250438-1).
+Understand and gain insights of Cristinao Ronaldo's game behaviour using data science. The dataset used in this project is available at [Kaggle]( https://www.kaggle.com/kerneler/starter-cristiano7-43250438-1). View rest of my projects [here](https://shivam360d.github.io/ShivamVats/).
 
 ### Data Visualizations
 
